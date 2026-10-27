@@ -338,3 +338,5 @@ Built with ❤️ for the Stellar ecosystem
 ## Fix for Issue #192: Mock Stellar Horizon server not used in tests
 
 Introduce a mock Stellar Horizon server in the test suite for fast, reliable, offline testing of payment flows. Current tests make real network calls which are slow and fragile.
+
+<!-- fix: issue #192 - [TEST-008] Mock Stellar Horizon server not used in tests -->
